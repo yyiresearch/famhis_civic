@@ -9,6 +9,7 @@ This repository contains replication materials for all of the analyses (main and
 * Data Files
   * famhis_raw.dta (Stata format)
   * verasight_experiment.dta (Stata format)
+  * litreview.csv (CSV UTF-8 format)
 * Programming Files
   * Analysis (Stata .do files)
     * 0_yi-enns-wildeman.do 
@@ -34,3 +35,6 @@ Sarah Sernaker provided excellent research assistance on data coding, analysis, 
 
 ### License
 Reconsidering the Relationship between Incarceration, Trust in the State, Community Engagement, and Civic Participation © 2024 by Youngmin Yi, Peter K. Enns, and Christopher Wildeman is licensed under CC BY-NC 4.0 
+
+### Last Updated
+November 11, 2024 by Youngmin Yi
